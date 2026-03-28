@@ -1,0 +1,11 @@
+[project]
+name = "d7047e-advanced-deep-learning-assignments"
+version = "0.1.0"
+description = "Lab solutions to D7047E"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "numpy>=2.4.3",
+    "torch>=2.11.0",
+]
