@@ -5,6 +5,7 @@ description = "Lab solutions to D7047E"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "datasets>=4.8.4",
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
     "nltk>=3.9.4",
