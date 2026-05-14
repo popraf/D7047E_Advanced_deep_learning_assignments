@@ -215,4 +215,15 @@ lab1/data/mteb___amazon_polarity/
 lab2/MNIST/
 lab2/checkpoints/
 lab3/flickr8k/
-lab3/note.pdf
+lab3/checkpoint_best*.pth
+lab3/vocab.pth
+project/old_files/
+lab3/old_files/
+project/data/
+project/data/nvd_prepared/
+project/results/
+project/notebooks/yolo26n.pt
+project/weights/yolov9c.pt
+project/
+lab3/Flickr8k_Dataset.zip
+lab3/Flickr8k_text.zip
